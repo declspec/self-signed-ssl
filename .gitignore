@@ -1,0 +1,10 @@
+*.pem
+*.csr
+*.crt
+*.cer
+*.old
+*.attr
+
+.private/
+index.txt
+serial
